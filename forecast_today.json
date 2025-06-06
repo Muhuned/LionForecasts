@@ -1,8 +1,110 @@
 {
   "EURUSD": {
     "direction": "buy",
-    "entry": 1.1340,
-    "tp": 1.1380,
-    "sl": 1.1300
+    "entry": 1.134,
+    "tp": 1.138,
+    "sl": 1.13
+  },
+  "EURCAD": {
+    "direction": "sell",
+    "entry": 1.47,
+    "tp": 1.465,
+    "sl": 1.474
+  },
+  "GBPUSD": {
+    "direction": "buy",
+    "entry": 1.278,
+    "tp": 1.284,
+    "sl": 1.274
+  },
+  "GBPJPY": {
+    "direction": "sell",
+    "entry": 200.0,
+    "tp": 198.5,
+    "sl": 201.0
+  },
+  "GBPCAD": {
+    "direction": "buy",
+    "entry": 1.732,
+    "tp": 1.74,
+    "sl": 1.728
+  },
+  "USDJPY": {
+    "direction": "buy",
+    "entry": 156.0,
+    "tp": 157.0,
+    "sl": 155.5
+  },
+  "AUDUSD": {
+    "direction": "sell",
+    "entry": 0.665,
+    "tp": 0.66,
+    "sl": 0.668
+  },
+  "USDCHF": {
+    "direction": "sell",
+    "entry": 0.894,
+    "tp": 0.888,
+    "sl": 0.898
+  },
+  "NZDUSD": {
+    "direction": "buy",
+    "entry": 0.61,
+    "tp": 0.616,
+    "sl": 0.607
+  },
+  "USDCAD": {
+    "direction": "buy",
+    "entry": 1.367,
+    "tp": 1.372,
+    "sl": 1.364
+  },
+  "NAS100": {
+    "direction": "buy",
+    "entry": 18800,
+    "tp": 19000,
+    "sl": 18650
+  },
+  "SPX500": {
+    "direction": "buy",
+    "entry": 5350,
+    "tp": 5400,
+    "sl": 5315
+  },
+  "JP225": {
+    "direction": "sell",
+    "entry": 38600,
+    "tp": 38200,
+    "sl": 38850
+  },
+  "DE40": {
+    "direction": "sell",
+    "entry": 18400,
+    "tp": 18200,
+    "sl": 18500
+  },
+  "UK100": {
+    "direction": "buy",
+    "entry": 8220,
+    "tp": 8280,
+    "sl": 8180
+  },
+  "FRA40": {
+    "direction": "sell",
+    "entry": 8030,
+    "tp": 7980,
+    "sl": 8060
+  },
+  "XAUUSD": {
+    "direction": "buy",
+    "entry": 2350,
+    "tp": 2380,
+    "sl": 2330
+  },
+  "XAGUSD": {
+    "direction": "sell",
+    "entry": 30.5,
+    "tp": 29.8,
+    "sl": 30.9
   }
 }
